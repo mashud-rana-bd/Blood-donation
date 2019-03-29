@@ -1,0 +1,24 @@
+ <script src="{{ asset('admin/assets/plugins/jQuery/jquery-1.12.4.min.js') }}"></script>
+ <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script src="{{ asset('admin/assets/plugins/jquery-ui-1.12.1/jquery-ui.min.js') }}"></script>
+<script src="{{ asset('admin/assets/bootstrap/js/bootstrap.min.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/metisMenu/metisMenu.min.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/lobipanel/lobipanel.min.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/fastclick/fastclick.min.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/slimScroll/jquery.slimscroll.min.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/sparkline/sparkline.min.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/counterup/jquery.counterup.min.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/counterup/waypoints.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/emojionearea/emojionearea.min.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/monthly/monthly.min.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/amcharts/amcharts.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/amcharts/ammap.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/amcharts/worldLow.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/amcharts/serial.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/amcharts/export.min.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/amcharts/light.js') }}"></script>
+<script src="{{ asset('admin/assets/plugins/amcharts/pie.js') }}"></script>
+<script src="{{ asset('admin/assets/dist/js/page/dashboard.js') }}"></script>
+<script src="{{ asset('admin/assets/dist/js/theme.js') }}"></script>
+<script src="{{ asset('admin/assets/dist/js/swal.js') }}"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
